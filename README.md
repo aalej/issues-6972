@@ -3,7 +3,8 @@
 ## Versions
 
 firebase-tools: v13.7.1<br>
-node: v20.5.1
+node: v20.5.1<br>
+platform: macOS Sonoma 14.4.1
 
 ## Steps to reproduce issue
 
